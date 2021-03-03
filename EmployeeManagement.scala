@@ -3,7 +3,7 @@ class NewEmp
   var FNAME : String = " "
   var LNAME : String = " "
   var DOB : String = " "
-  var Qal : String = " "
+  var Qal : Int = " "
   var MNo : Long = 0
   var Email : String = " "
   var Ctc : Int = 0
